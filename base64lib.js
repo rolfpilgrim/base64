@@ -1,4 +1,6 @@
+//Rolf Rost, Am Stadtgraben 27, 55276 Oppenheim, Tel.: 06133 573 68 02, ePost: nmqrstx-18@yahoo.de
 // by Rolf Rost, 2014-02
+
 var Base64String = {
     b64a: new String('ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/='),
     res64: new String(),
