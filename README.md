@@ -32,3 +32,5 @@ Base64 encode binary
 Encode ArrayBuffer (Binary) to Base64
 
 var base64string = Base64String.encode(ArrayBuffer);
+
+Demo: http://rolfrost.de/base64js.html 
