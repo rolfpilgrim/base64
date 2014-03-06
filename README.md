@@ -6,6 +6,7 @@ Synopsis
 ========
 
   base64str = Base64.encode(arraybuffer, wrap);
+  
   arraybuffer = Base64.decode(base64string);
 
 
